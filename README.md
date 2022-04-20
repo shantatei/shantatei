@@ -1,6 +1,4 @@
-### Hi!! 👋
 
-🌱 ##I’m currently learning React , Laravel , Angular and Flutter :)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shantatei&show_icons=true&theme=dracula)
 <!--
