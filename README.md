@@ -1,7 +1,7 @@
 ### Hi!! 👋
 
 🌱 I’m currently learning React , Laravel , Angular and Flutter :)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shantatei&show_icons=true&theme=dracula)
 <!--
 **shantatei/shantatei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
