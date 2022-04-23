@@ -2,7 +2,7 @@
 
 
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shantatei&theme=dark)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shantatei&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shantatei&layout=compact&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
