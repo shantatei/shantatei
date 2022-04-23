@@ -2,8 +2,8 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shantatei&theme=dark)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shantatei&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shantatei&layout=compact&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-📋 Languages
-	CSS3	![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+📋 Languages :
+CSS3	![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   
 <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=214jd65kmnmege5cqkpxjpfda&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=214jd65kmnmege5cqkpxjpfda&redirect=true) -->
 <!--
