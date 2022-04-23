@@ -15,6 +15,9 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+## Databases 💾
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=214jd65kmnmege5cqkpxjpfda&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=214jd65kmnmege5cqkpxjpfda&redirect=true) -->
 <!--
 **shantatei/shantatei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
