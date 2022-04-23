@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/83003025/164879586-caf5ea16-eb63-42d2-9094-ab42e19d881c.png)
+![image](https://user-images.githubusercontent.com/83003025/164879842-f709e277-d42c-44e6-9700-74c0beb0cfd3.png)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shantatei&show_icons=true&theme=dark)
