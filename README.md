@@ -1,4 +1,5 @@
-/header.png
+![image](https://user-images.githubusercontent.com/83003025/164879586-caf5ea16-eb63-42d2-9094-ab42e19d881c.png)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shantatei&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shantatei&layout=compact&langs_count=8&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
