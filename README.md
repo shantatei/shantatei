@@ -1,7 +1,4 @@
 ![image](https://user-images.githubusercontent.com/83003025/164883566-e8b9005b-7342-42b3-9985-c085d725a16c.png)
-
-
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shantatei&theme=dark)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shantatei&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shantatei&layout=compact&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
