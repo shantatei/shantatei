@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280" role="img" aria-label="Hi, I'm Shanta. CS undergrad at NUS, building things that get used.">
+  <defs>
+    <radialGradient id="glow" cx="0.5" cy="0" r="0.9">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.16"/>
+      <stop offset="0.7" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="14" height="14" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#ffffff" fill-opacity="0.14"/>
+    </pattern>
+    <linearGradient id="fadeg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.85" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="fade"><rect width="1000" height="280" fill="url(#fadeg)"/></mask>
+    <linearGradient id="name" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0.3" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#6e7681"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="280" rx="14" fill="#000000"/>
+  <rect width="1000" height="280" rx="14" fill="url(#glow)"/>
+  <rect width="1000" height="280" rx="14" fill="url(#dots)" mask="url(#fade)"/>
+  <rect x="0.5" y="0.5" width="999" height="279" rx="14" fill="none" stroke="#2a2a2a"/>
+  <g font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" text-anchor="middle">
+    <text x="500" y="78" font-size="24" fill="#ffffff" fill-opacity="0.7">Hi, I'm</text>
+    <text x="500" y="170" font-size="104" font-weight="800" letter-spacing="-3" fill="url(#name)">Shanta</text>
+    <text x="500" y="222" font-size="24" fill="#ffffff" fill-opacity="0.65">CS undergrad at NUS · building things that get used</text>
+  </g>
+</svg>
